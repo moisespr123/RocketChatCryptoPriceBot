@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RocketChat Crypto Price Bot", "RocketChatPriceBot\RocketChat Crypto Price Bot.vbproj", "{86AC26BD-B74E-4B33-A4F5-8832BC6C316E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86AC26BD-B74E-4B33-A4F5-8832BC6C316E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AC26BD-B74E-4B33-A4F5-8832BC6C316E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AC26BD-B74E-4B33-A4F5-8832BC6C316E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AC26BD-B74E-4B33-A4F5-8832BC6C316E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
